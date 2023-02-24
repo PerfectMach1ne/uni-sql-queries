@@ -1,0 +1,1 @@
+INSERT INTO countries VALUES('77', 'Scotland', 21910);
